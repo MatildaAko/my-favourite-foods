@@ -1,0 +1,62 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    background: url("https://i.imgur.com/TX7x5Cn.jpg");
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    background: pink;
+    padding: 10px;
+    margin: 0px;
+    text-align: left;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold
+}
+
+.header {
+    display: inline;
+    text-transform: uppercase;
+    padding: 0px 30px 0px 0px;
+    font-weight: bold;
+}
+
+.foods {
+    text-align: left;
+    text-transform: uppercase;
+    padding: 0px 0px 5px 0px;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 50px;
+}
+
+img,
+p {
+    width: 400px;
+}
+
+img {
+    padding: 15px;
+    border-radius: 48%
+}
+
+p {
+    text-align: center;
+    margin: auto;
+    padding: 0px 0px 100px 0px;
+}
